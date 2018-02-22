@@ -3,3 +3,4 @@ obývák
 ložnice
 kuchynì
 koupelna
+prcovna
